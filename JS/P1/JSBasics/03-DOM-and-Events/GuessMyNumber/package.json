@@ -1,0 +1,13 @@
+{
+  "name": "03-dom-and-events",
+  "version": "1.0.0",
+  "description": "setting up my neovim editor",
+  "main": "js/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lsvr": "live-server --port=${1:-8080} --no-browser"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {}
+}
